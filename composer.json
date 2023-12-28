@@ -1,9 +1,9 @@
 {
-    "name": "7ts/greeting",
+    "name": "lakum/greeting",
     "description": "Test Greeting Package",
     "authors": [
         {
-            "name": "7TS"
+            "name": "Lakum"
         }
     ],
     "minimum-stability": "dev",
