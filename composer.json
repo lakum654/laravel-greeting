@@ -1,0 +1,24 @@
+{
+    "name": "7ts/greeting",
+    "description": "Test Greeting Package",
+    "authors": [
+        {
+            "name": "7TS"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SevenTS\\Greeting\\": "src/",
+            "SevenTS\\DateFormat\\": "src/"
+        }
+    },
+    "files": [
+        "src/Greeting.php",
+        "src/DateFormat.php"
+    ],
+    "classmap": [
+        "database/migrations"
+    ]
+}
